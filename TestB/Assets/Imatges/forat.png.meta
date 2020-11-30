@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 74ee2f5235e82fb4c98e13ef429e4030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 414632515670840595
+    second: forat_0
+  - first:
+      213: 3044729800711587148
+    second: forat_1
+  - first:
+      213: -4747602638005037963
+    second: forat_2
+  - first:
+      213: -1335098918566014278
+    second: forat_3
+  - first:
+      213: 5162333050659939742
+    second: forat_4
+  - first:
+      213: -6080927685222524862
+    second: forat_5
+  - first:
+      213: -6442233275901541751
+    second: forat_6
+  - first:
+      213: 1089922490845108006
+    second: forat_7
+  - first:
+      213: 395856255364673188
+    second: forat_8
+  - first:
+      213: -6252145319132861970
+    second: forat_9
+  - first:
+      213: 6550436749733774716
+    second: forat_10
+  - first:
+      213: 5187149533398150947
+    second: forat_11
+  - first:
+      213: -8268088103311078104
+    second: forat_12
+  - first:
+      213: -2195260404227700132
+    second: forat_13
+  - first:
+      213: 2056351750039529889
+    second: forat_14
+  - first:
+      213: -7376543143469269960
+    second: forat_15
+  - first:
+      213: -1078849046048947946
+    second: forat_16
+  - first:
+      213: -8641824560335485854
+    second: forat_17
+  - first:
+      213: -5870164774120715083
+    second: forat_18
+  - first:
+      213: 6124948495473050864
+    second: forat_19
+  - first:
+      213: -4072136298185333831
+    second: forat_20
+  - first:
+      213: 8817047277017405609
+    second: forat_21
+  - first:
+      213: -681902350966802361
+    second: forat_22
+  - first:
+      213: 4621331386237997018
+    second: forat_23
+  - first:
+      213: 7596411857699430707
+    second: forat_24
+  - first:
+      213: -3840668711092015502
+    second: forat_25
+  - first:
+      213: -9201028373059010447
+    second: forat_26
+  - first:
+      213: -5891434916457710803
+    second: forat_27
+  - first:
+      213: 8591353175221492729
+    second: forat_28
+  - first:
+      213: -404966927000157894
+    second: forat_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forat_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 414
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31513e0831211c500800000000000000
+      internalID: 414632515670840595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 414
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c5704f9d014a20800000000000000
+      internalID: 3044729800711587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 414
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574900bfd802d1eb0800000000000000
+      internalID: -4747602638005037963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 414
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab25dd27b96c87de0800000000000000
+      internalID: -1335098918566014278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 414
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9528d0fe8a44a740800000000000000
+      internalID: 5162333050659939742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 414
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24819790d743c9ba0800000000000000
+      internalID: -6080927685222524862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 321
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98200bdc7f69896a0800000000000000
+      internalID: -6442233275901541751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 321
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62718831bbe202f00800000000000000
+      internalID: 1089922490845108006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 321
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea02bba2d5e7500800000000000000
+      internalID: 395856255364673188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 321
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e6f025faeb39a0800000000000000
+      internalID: -6252145319132861970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 321
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cb87a483d7ea50800000000000000
+      internalID: 6550436749733774716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 321
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa70794057cf740800000000000000
+      internalID: 5187149533398150947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 228
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d828e1da9d14d80800000000000000
+      internalID: -8268088103311078104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a07881b4ed881e0800000000000000
+      internalID: -2195260404227700132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 229
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9eb5a8501a98c10800000000000000
+      internalID: 2056351750039529889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 229
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbb27f71141a990800000000000000
+      internalID: -7376543143469269960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 229
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611cbf332882701f0800000000000000
+      internalID: -1078849046048947946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 229
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405f54952121880800000000000000
+      internalID: -8641824560335485854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 135
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc06894d3cf88ea0800000000000000
+      internalID: -5870164774120715083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f40c3c8430300550800000000000000
+      internalID: 6124948495473050864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 135
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b360b5ac9ddc77c0800000000000000
+      internalID: -4072136298185333831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 135
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a89272a8c17c5a70800000000000000
+      internalID: 8817047277017405609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 135
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748be17bc656986f0800000000000000
+      internalID: -681902350966802361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 135
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf44123964422040800000000000000
+      internalID: 4621331386237997018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 42
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316db94650eb6960800000000000000
+      internalID: 7596411857699430707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 42
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e276fe72433bac0800000000000000
+      internalID: -3840668711092015502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 42
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170078f91716f4080800000000000000
+      internalID: -9201028373059010447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 42
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b743b582b6d3ea0800000000000000
+      internalID: -5891434916457710803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 42
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb5005a13e9a3770800000000000000
+      internalID: 8591353175221492729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forat_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 43
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31cf5ab9b4416af0800000000000000
+      internalID: -404966927000157894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
